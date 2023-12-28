@@ -1,4 +1,4 @@
-This is LMS Platform:  NextJs , ReactJs, Tailwind css ,Graphql Hygraph, Clerk
+# This is LMS Platform:  NextJs , ReactJs, Tailwind css ,Graphql Hygraph, Clerk
 Key Features:
 
 Browse & Filter Courses
