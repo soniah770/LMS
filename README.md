@@ -2,13 +2,21 @@ This is LMS Platform:  NextJs , ReactJs, Tailwind css ,Graphql Hygraph, Clerk
 Key Features:
 
 Browse & Filter Courses
+
 Mark Chapters as Completed or Uncompleted
+
 Student Dashboard
+
 Create new Courses
+
 Create new Chapters
+
 Authentication using Clerk
-ORM using Graphql Hygraph,
+
+ORM using Graphql Hygraph
+
 Prerequisites
+
 Node version 18.x.x
 
 Cloning the repository
@@ -28,7 +36,3 @@ bun dev
 Setup Clerk
 Setup .env file
 
-
-
-command	description
-dev	Starts a development instance of the app
